@@ -7,11 +7,15 @@ Omer Kirnap:
       url  : "https://github.com/kirnap"
       icon : "fab fa-github"
     - label: "Email"
-      icon:  "fas fa-fw fa-envelope-square"
-      url:   "mailto:okirnap@gmail.com"
+      icon : "fas fa-fw fa-envelope-square"
+      url  : "mailto:okirnap@gmail.com"
+    - label: "Vitae"
+      url  : "/assets/data/kirnap_curriculum-vitae.pdf"
+      icon : "fas fa-file-alt"
     - label: "Publications"
       icon : "fa fa-fw fa-pen"
-      url  : "https://twitter.com/kirnap"
+      url  : "https://scholar.google.com.tr/citations?user=zsYlaM4AAAAJ&hl=en"
+
   # TODOs:
     # 1. Put your cv
     # 2. Put your publications
