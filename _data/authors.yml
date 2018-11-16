@@ -1,0 +1,18 @@
+Omer Kirnap:
+  name           : "Ömer Kırnap"
+  avatar         : "/assets/images/ok.png"
+  location       : "London"
+  links:
+    - label: "Github"
+      url  : "https://github.com/kirnap"
+      icon : "fab fa-github"
+    - label: "Email"
+      icon:  "fas fa-fw fa-envelope-square"
+      url:   "mailto:okirnap@gmail.com"
+    - label: "Publications"
+      icon : "fa fa-fw fa-pen"
+      url  : "https://twitter.com/kirnap"
+  # TODOs:
+    # 1. Put your cv
+    # 2. Put your publications
+    # 3. Put your linkedin, (maybe) spotify
