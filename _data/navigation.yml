@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Blogs"
-    url: /blogs/
+  - title: "Blog"
+    url: /blog/
   - title: "Machine Learning"
     url: /ml/
   - title: "Programming Languages"
