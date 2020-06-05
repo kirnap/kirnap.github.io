@@ -34,7 +34,7 @@ In contrary to what ProPublica found, another group of detailed analysis argued 
 **Background**
 <br/>To "roughly" understand the debate we need a little bit of technical explanations.
 
-*Calibrated Scores*. A rule of thumb in statistical risk assement tools is *calibrating the scores*. Suppose your wheather forecasting app predicts 40 percent of rain for today, how do you scientifically measure the goodness of this prediction? You need to collect data points... If you have 100 days of prediction with 40 percent rain, and approximately 40 of them actually rains, then your predictions are ***statistically calibrated***. Hence, your risk asssement for rain is scientifically fine. 
+*Calibrated Scores*. A rule of thumb in statistical risk assement tools is *calibrating the scores*. Suppose your weather forecasting app predicts 40 percent of rain for today, how do you scientifically measure the goodness of this prediction? You need to collect data points... If you have 100 days of prediction with 40 percent rain, and approximately 40 of them actually rains, then your predictions are ***statistically calibrated***. Hence, your risk asssement for rain is scientifically fine. 
 
 
 *Balance for Classes*. Suppose we have two group of people, group X and group Y and the same risk prediction system predicting individuals as high risk-*positive*- (HR) or low risk-*negative*- (LR). 
